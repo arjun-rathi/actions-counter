@@ -1,5 +1,5 @@
 <h3 align="center">actions-counter</h3>
-<p align="center">[WIP] A counter service for GitHub Actions<p>
+<p align="center">[WIP] A counter service for GitHub Actions [WIP] <p>
 <p align="center"><a href="https://npmjs.com/package/actions-counter"><img src="https://badgen.net/npm/v/actions-counter" alt="NPM"></a> <a href="https://travis-ci.org/JasonEtco/actions-counter"><img src="https://badgen.now.sh/travis/JasonEtco/actions-counter" alt="Build Status"></a> <a href="https://codecov.io/gh/JasonEtco/actions-counter/"><img src="https://badgen.now.sh/codecov/c/github/JasonEtco/actions-counter" alt="Codecov"></a></p>
 
 ## Usage
