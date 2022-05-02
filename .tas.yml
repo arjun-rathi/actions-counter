@@ -5,11 +5,12 @@ preRun:
         - npm ci
 preMerge:
   pattern:
-    - "./tests/index.test.js"
+    - "./tests/*.js"
 postMerge:
   pattern: 
-    - "./tests/index.test.js"
+    - "./tests/*.js"
 postRun:
      command:
         - node --version
 version: 1.0
+nodeVersion: 10.24.1
